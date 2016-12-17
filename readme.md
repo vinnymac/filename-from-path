@@ -1,4 +1,4 @@
-# filename-from-path
+# filename-from-path [![Build Status](https://img.shields.io/travis/vinnymac/filename-from-path.svg?style=flat?branch=master)](https://travis-ci.org/vinnymac/filename-from-path)
 
 > Retrieves the filename for a given path
 
