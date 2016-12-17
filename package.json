@@ -1,0 +1,36 @@
+{
+  "name": "filename-from-path",
+  "version": "1.0.0",
+  "description": "Given a path returns the filename",
+  "license": "MIT",
+  "repository": "vinnymac/filename-from-path",
+  "author": {
+    "name": "Vincent Taverna",
+    "email": "vinnymac@gmail.com",
+    "url": "https://github.com/vinnymac"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "regex",
+    "ie",
+    "file",
+    "path"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
